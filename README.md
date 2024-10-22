@@ -8,3 +8,6 @@ Analyzed data to find the healthiest people (nonsmokers), compensation rate incr
 
 Additionally analyzed reasons for absence based on body mass index categories and month with a case statement. 
 
+![image](https://github.com/user-attachments/assets/eb7c5fdf-042b-4c03-8d08-85501df51621)
+
+
