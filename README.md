@@ -11,9 +11,9 @@ Utilized a case statement to sort and analyze through body mass index into diffe
 
 
 Dashboards created in PowerBI to showcase insights: 
-![image](https://github.com/user-attachments/assets/bf0928f5-e399-4bc7-9ff8-e52c65713581)
+![image](https://github.com/user-attachments/assets/32c87c7a-27b2-467d-88e3-daeb3cb44b75)
 
-![image](https://github.com/user-attachments/assets/968efb25-fef5-4ece-bccb-33c013776b21)
+![image](https://github.com/user-attachments/assets/ef47449f-2302-4261-a343-eeef856bee64)
 
-![image](https://github.com/user-attachments/assets/c34b0223-5079-4551-a6c0-d4ad6185e642)
+![image](https://github.com/user-attachments/assets/1251e8c5-f728-4d14-b274-c3d488fa12d4)
 
