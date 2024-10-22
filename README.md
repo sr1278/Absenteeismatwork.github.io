@@ -7,8 +7,7 @@ Data Analysis and Procedure:
 I joined tables of absenteeism at work, reasons, and compensation to analyze data. Through analysis, I found the healthiest people (nonsmokers), compensation rate increase for nonsmokers and optimized the query to include a reason for absence based on the type of season (spring, summer, fall, winter) with a case statement.  Additionally analyzed reasons for absence based on body mass index categories and month with a case statement. 
 
 Utilized a case statement to sort and analyze through body mass index into different BMI categories. 
-![image](https://github.com/user-attachments/assets/bb790191-78f0-4c9b-9fda-d1b2f2b65de5)
-
+![image](https://github.com/user-attachments/assets/7001a915-6957-4dcf-9ed8-450fb15b58da)
 
 
 Dashboards created in PowerBI to showcase insights: 
