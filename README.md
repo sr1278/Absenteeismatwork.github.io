@@ -9,8 +9,8 @@ I joined tables of absenteeism at work, reasons, and compensation to analyze dat
 Utilized a case statement to sort and analyze through body mass index into different BMI categories. 
 ![image](https://github.com/user-attachments/assets/7001a915-6957-4dcf-9ed8-450fb15b58da)
 
-
 Dashboards created in PowerBI to showcase insights: 
+
 ![image](https://github.com/user-attachments/assets/32c87c7a-27b2-467d-88e3-daeb3cb44b75)
 
 ![image](https://github.com/user-attachments/assets/ef47449f-2302-4261-a343-eeef856bee64)
